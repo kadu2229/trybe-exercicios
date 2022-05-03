@@ -1,5 +1,0 @@
-- unix
-- bash
-- git
-- HMTL
-- CSS
